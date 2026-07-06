@@ -32,18 +32,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayshrosine&show_icons=true&theme=dracula&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshrosine&layout=compact&theme=dracula&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshrosine&theme=dracula&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/languages-output/languages.svg" />
 
 </div>
 

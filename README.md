@@ -107,15 +107,6 @@ Task management system
 
 ---
 
-## 🏆 Coding Profiles
-
-- 🧠 LeetCode: problem solving
-- 🏅 HackerRank: certifications & challenges  
-- 💼 LinkedIn: professional presence  
-- 💻 GitHub: project ecosystem
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">

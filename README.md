@@ -111,16 +111,20 @@ Task management system
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ayushbisen01">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Bisen-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ayushbisen01" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Bisen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:ayush@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.instagram.com/ayshrosine" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@ayshrosine-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/ayshrosine">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<a href="https://codeforces.com/profile/ayshrosine" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-ayshrosine-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/bisen_m2006" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-bisen__m2006-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 </div>

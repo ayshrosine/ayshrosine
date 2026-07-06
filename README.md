@@ -13,7 +13,7 @@
   "name": "Ayush Bisen",
   "location": "Nagpur, India",
   "role": "Full Stack Developer",
-  "education": "Computer Science Student",
+  "education": "Computer Science & Bussiness System Student",
   "interests": [
     "Web Development",
     "System Design",

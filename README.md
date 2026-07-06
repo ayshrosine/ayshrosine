@@ -35,15 +35,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayshrosine&theme=react-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ayshrosine&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
+height="180" />
 
-</div>
-
-## 🧠 Most Used Languages
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/languages-output/languages.svg" />
+<img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false"
+height="180" />
 
 </div>
 

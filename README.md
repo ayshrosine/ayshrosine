@@ -60,7 +60,7 @@ height="180" />
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
 ### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 
 ### 🤖 AI / APIs
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />

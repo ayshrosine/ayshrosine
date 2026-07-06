@@ -133,7 +133,7 @@ Task management system
 
 ## ⚡ Fun Quote
 
-> “I don’t just write code. I build systems that solve real problems.”
+> “My browser has 47 tabs open: coding, investing, YouTube, portfolio building, and one tab wondering why I'm not sleeping.”
 
 ---
 

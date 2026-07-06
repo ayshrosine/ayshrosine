@@ -1,80 +1,153 @@
-<h2 data-importer="text" align="left">AYUSH BISEN</h2>
+# 👋 Hi, I'm **AYUSH BISEN**
 
-###
+### 🚀 Full Stack Developer • MERN Enthusiast • DevOps Learner • AI Explorer
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=ayshrosine&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU1eDV2dmNtMXYwd2FwenJtdjZnYWx6ZXV3ZHQ4eTY3OWk5aDV5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif"  />
+## 🧑‍💻 About Me
 
-###
+```json
+{
+  "name": "Ayush Bisen",
+  "location": "Nagpur, India",
+  "role": "Full Stack Developer",
+  "education": "Computer Science Student",
+  "interests": [
+    "Web Development",
+    "System Design",
+    "DevOps",
+    "AI Integration",
+    "Open Source"
+  ],
+  "currently_learning": [
+    "MERN Stack",
+    "DevOps",
+    "System Design",
+    "AI APIs"
+  ]
+}
+```
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayshrosine&show_icons=true&theme=dracula&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshrosine&layout=compact&theme=dracula&hide_border=true" height="170"/>
+
 </div>
 
-###
+<div align="center">
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/ayshrosine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ayushbisen01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/bisen_m2006" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshrosine&theme=dracula&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/snake-output/snake.svg" alt="Snake animation" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
 
-###
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+
+### 🤖 AI / APIs
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+---
+
+## 🚀 Featured Projects
+
+### 🏙️ JanVani Seva
+AI-powered civic complaint & service platform  
+→ Smart issue reporting system for citizens
+
+### 🌳 RakshaVan
+Forest protection & monitoring system  
+→ Environmental safety + reporting dashboard
+
+### 🔍 Scanalyze
+AI-based document / data analyzer  
+→ Extracts insights using ML models
+
+### 🌐 Curious Nova
+Learning + exploration platform  
+→ Built for interactive knowledge discovery
+
+### 📌 Trello Clone App
+Task management system  
+→ Drag & drop workflow + authentication
+
+---
+
+## 📈 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/snake-output/snake.svg" />
+
+---
+
+## 🌱 Current Focus
+
+- MERN Stack Mastery
+- DevOps (Docker, CI/CD)
+- System Design Basics
+- AI API Integration (OpenRouter, GPT APIs)
+- Open Source Contributions
+
+---
+
+## 🏆 Coding Profiles
+
+- 🧠 LeetCode: problem solving
+- 🏅 HackerRank: certifications & challenges  
+- 💼 LinkedIn: professional presence  
+- 💻 GitHub: project ecosystem
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayushbisen01">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Bisen-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ayush@example.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/ayshrosine">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Fun Quote
+
+> “I don’t just write code. I build systems that solve real problems.”
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following!
+
+</div>

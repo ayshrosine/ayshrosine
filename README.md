@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **AYUSH BISEN**
+# Hi, I'm **AYUSH BISEN**
 
-### 🚀 Full Stack Developer • MERN Enthusiast • DevOps Learner • AI Explorer
+### • Full Stack Developer • MERN Enthusiast • DevOps Learner • AI Explorer
 
 </div>
 

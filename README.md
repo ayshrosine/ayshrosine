@@ -3,7 +3,7 @@
 ### • Full Stack Developer • MERN Developer • DevOps Learner • AI Explorer
 
 </div>
-
+[![My GitFut card](https://gitfut.com/ayshrosine.png)](https://gitfut.com/ayshrosine)
 ---
 
 ## 🧑‍💻 About Me

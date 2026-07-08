@@ -4,12 +4,6 @@
 
 </div>
 
-<p align="center">
-  <a href="https://gitfut.com/ayshrosine">
-    <img src="https://gitfut.com/ayshrosine.png" alt="My GitFut card" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me

@@ -69,25 +69,115 @@ height="180" />
 
 ## 🚀 Featured Projects
 
-### 🏙️ JanVani Seva
-AI-powered civic complaint & service platform  
-→ Smart issue reporting system for citizens
+<table>
+<tr>
 
-### 🌳 RakshaVan
-Forest protection & monitoring system  
-→ Environmental safety + reporting dashboard
+<td width="50%" valign="top">
 
-### 🔍 Scanalyze
-AI-based document / data analyzer  
-→ Extracts insights using ML models
+### 📦 <a href="https://github.com/ayshrosine/AssetFlow"><strong>AssetFlow</strong></a>
 
-### 🌐 Curious Nova
-Learning + exploration platform  
-→ Built for interactive knowledge discovery
+**Enterprise Asset & Resource Management Platform**
 
-### 📌 Trello Clone App
-Task management system  
-→ Drag & drop workflow + authentication
+ERP-style SaaS that digitizes asset tracking, resource booking, maintenance workflows, and organizational operations for enterprises.
+
+**Tech Stack**
+
+`React` `FastAPI` `MongoDB` `Python`
+
+**Highlights**
+- Multi-tenant organization management
+- Asset lifecycle & transfer workflows
+- Resource booking with conflict detection
+- Maintenance approval system
+- Audit cycles & analytics dashboard
+- Role-based access control (RBAC)
+
+🔗 **Repository:**  
+https://github.com/ayshrosine/AssetFlow
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 <a href="https://github.com/ayshrosine/ScanX_Expense"><strong>ScanX Expense</strong></a>
+
+**AI Intelligent Document Processing System**
+
+Offline AI pipeline that converts invoices into structured data using OCR, Local LLMs, and Natural Language SQL.
+
+**Tech Stack**
+
+`Python` `OpenCV` `Tesseract` `Ollama` `SQLite` `Streamlit`
+
+**Highlights**
+- OCR-based invoice extraction
+- Multi-Agent AI workflow
+- Automatic expense categorization
+- Natural Language → SQL queries
+- Interactive analytics dashboard
+- Fully offline processing
+
+🔗 **Repository:**  
+https://github.com/ayshrosine/ScanX_Expense
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 <a href="https://github.com/ayshrosine/KizunaX"><strong>KizunaX</strong></a>
+
+**AI Digital Identity Platform for Students**
+
+Transforms scattered certificates, resumes, internships, and projects into a searchable AI-powered portfolio with semantic retrieval.
+
+**Tech Stack**
+
+`React` `FastAPI` `MongoDB` `ChromaDB` `OpenAI` `Cloudflare R2`
+
+**Highlights**
+- AI document understanding
+- OCR + LLM extraction pipeline
+- Semantic document search
+- Knowledge graph relationships
+- Career timeline generation
+- Smart portfolio management
+
+🔗 **Repository:**  
+https://github.com/ayshrosine/KizunaX
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ <a href="https://github.com/ayshrosine/SachCheck"><strong>SachCheck</strong></a>
+
+**AI Deepfake & Scam Detection Platform**
+
+Multimodal AI system that analyzes videos, images, and audio to detect deepfakes, scams, and manipulated content.
+
+**Tech Stack**
+
+`Next.js` `FastAPI` `Gemma 4` `Supabase` `Cloudflare R2`
+
+**Highlights**
+- Video, image & audio verification
+- AI-powered scam detection
+- Explainable AI verdicts
+- Multi-language support
+- Privacy-first architecture
+- Mobile & Web interfaces
+
+🔗 **Repository:**  
+https://github.com/ayshrosine/SachCheck
+
+</td>
+
+</tr>
+</table>
 
 ---
 

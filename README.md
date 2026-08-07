@@ -8,26 +8,23 @@
 
 ## 🧑‍💻 About Me
 
-```json
-{
-  "name": "Ayush Bisen",
-  "location": "Nagpur, India",
-  "role": "Full Stack Developer",
-  "education": "Computer Science & Bussiness System Student",
-  "interests": [
-    "Web Development",
-    "System Design",
-    "DevOps",
-    "AI Integration",
-    "Open Source"
-  ],
-  "currently_learning": [
-    "MERN Stack",
-    "DevOps",
-    "System Design",
-    "AI APIs"
-  ]
-}
+```bash
+> whoami
+
+Name        : Ayush Bisen
+Role        : Full Stack Developer
+Education   : Computer Science & Business Systems Student
+Location    : Nagpur, India
+
+Languages   : JavaScript | TypeScript | Python | C++ | SQL
+Frontend    : React | JavaScript | HTML | CSS | Tailwind CSS
+Backend     : Node.js | Express.js
+Database    : MongoDB | PostgreSQL | MySQL
+
+Focus       : Full Stack Development | System Design
+Learning    : MERN Stack | DevOps | AI APIs
+Interests   : Web Development | DevOps | Open Source | AI Integration
+Status      : Building scalable web applications & AI-powered projects 🚀
 ```
 
 ---

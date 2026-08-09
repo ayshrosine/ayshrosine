@@ -202,6 +202,33 @@ https://github.com/ayshrosine/SachCheck
 
 </td>
 
+<td width="50%" valign="top">
+
+### 🏫 <a href="https://github.com/ayshrosine/CampusX"><strong>AssetFlow Campus</strong></a>
+
+**Campus Asset & Operations Management Platform**
+
+Full-stack asset-management system built for a real college — solving live scheduling conflicts, untracked equipment, and manual audit workflows. Validated with faculty and deployed live on Zerops.
+
+**Tech Stack**
+`React` `FastAPI` `MongoDB` `Cloudinary` `Zerops`
+
+**Highlights**
+- Conflict-checked room & equipment bookings
+- Asset lifecycle: registration, check-out/check-in, QR scan
+- Maintenance kanban board with photo evidence
+- Audit cycles with signed PDF exports
+- NAAC/NBA accreditation reporting
+- Server-enforced RBAC (5 roles)
+
+🔗 **Repository:**  
+https://github.com/ayshrosine/CampusX
+
+🌐 **Live:**  
+https://frontend-2b2f-3000.prg1.zerops.app
+
+</td>
+
 </tr>
 </table>
 

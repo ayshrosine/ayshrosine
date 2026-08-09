@@ -1,12 +1,3 @@
-# Hi, I'm **AYUSH BISEN**
-
-### • Full Stack Developer • MERN Developer • DevOps Learner • AI Explorer
-
-</div>
-
----
-
-## 🧑‍💻 About Me
 
 ```bash
 > whoami

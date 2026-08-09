@@ -202,8 +202,8 @@ https://github.com/ayshrosine/SachCheck
 
 </td>
 
-
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top" colspan="2">
 
 ### 🏫 <a href="https://github.com/ayshrosine/CampusX"><strong>AssetFlow Campus</strong></a>
 
@@ -229,6 +229,7 @@ https://github.com/ayshrosine/CampusX
 https://frontend-2b2f-3000.prg1.zerops.app
 
 </td>
+</tr>
 
 </tr>
 </table>

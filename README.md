@@ -19,39 +19,60 @@ Status      : Building scalable web applications & AI-powered projects 🚀
 ```
 
 ---
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayshrosine&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-height="180" />
-
-<img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false"
-height="180" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
 
+</td>
+<td width="50%" valign="top">
+
 ### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
+</td>
+<td width="50%" valign="top">
+
 ### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### ☁️ DevOps & Tools
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 AI / APIs
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+</td>
+</tr>
+</table>
 
 ---
 

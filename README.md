@@ -202,8 +202,11 @@ https://github.com/ayshrosine/SachCheck
 
 </td>
 
+</tr>
+
 <tr>
-<td width="100%" valign="top" colspan="2">
+
+<td width="50%" valign="top">
 
 ### 🏫 <a href="https://github.com/ayshrosine/CampusX"><strong>AssetFlow Campus</strong></a>
 
@@ -212,6 +215,7 @@ https://github.com/ayshrosine/SachCheck
 Full-stack asset-management system built for a real college — solving live scheduling conflicts, untracked equipment, and manual audit workflows. Validated with faculty and deployed live on Zerops.
 
 **Tech Stack**
+
 `React` `FastAPI` `MongoDB` `Cloudinary` `Zerops`
 
 **Highlights**
@@ -229,7 +233,31 @@ https://github.com/ayshrosine/CampusX
 https://frontend-2b2f-3000.prg1.zerops.app
 
 </td>
-</tr>
+
+<td width="50%" valign="top">
+
+### 📂 <a href="https://github.com/ayshrosine/DriveX_classify-doc"><strong>DriveX Classify</strong></a>
+
+**AI Document Classification & Organization System**
+
+Backend-only AI pipeline that polls Google Drive, OCRs incoming documents, and auto-sorts them into a two-level category/subcategory folder hierarchy using structural signatures instead of keyword matching.
+
+**Tech Stack**
+
+`FastAPI` `Python` `Ollama` `Phi3` `Tesseract` `Google Drive API`
+
+**Highlights**
+- Automatic Google Drive polling & file processing
+- Two-stage AI classification (category + subcategory)
+- Structural-signature analysis (prevents keyword misclassification)
+- Confidence-based routing with fallback folders
+- Auto folder creation (2-level hierarchy)
+- Full REST API with Swagger docs
+
+🔗 **Repository:**  
+https://github.com/ayshrosine/DriveX_classify-doc
+
+</td>
 
 </tr>
 </table>

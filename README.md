@@ -1,21 +1,26 @@
-
 ```bash
 > whoami
-
 Name        : Ayush Bisen
 Role        : Full Stack Developer
 Education   : Computer Science & Business Systems Student
 Location    : Nagpur, India
-
 Languages   : JavaScript | TypeScript | Python | C++ | SQL
 Frontend    : React | JavaScript | HTML | CSS | Tailwind CSS
 Backend     : Node.js | Express.js
 Database    : MongoDB | PostgreSQL | MySQL
-
 Focus       : Full Stack Development | System Design
 Learning    : MERN Stack | DevOps | AI APIs
 Interests   : Web Development | DevOps | Open Source | AI Integration
 Status      : Building scalable web applications & AI-powered projects 🚀
+
+> achievements --hackathons
+🏆 HackGenX          | 3rd Position   | 2025
+🏆 SIH Expo           | 1st Position   | 2025
+🏆 BIT-Tadoba         | 1st Position   | 2026
+🏆 TECHELONS          | 1st Position   | 2026
+🥈 CIH                | Top 15
+🥈 Idea3              | Top 10
+🥈 HackronyX          | Top 10
 ```
 
 ---

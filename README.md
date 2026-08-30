@@ -1,3 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-mobile-dark.svg.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/builder-profile-v2-mobile-light.svg.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-dark.svg.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-v2-light.svg.svg">
+    <img src="./assets/hero/builder-profile-v2-dark.svg.svg" alt="Ayush Bisen, full-stack product builder" width="100%">
+  </picture>
+</p>
+
 ```bash
 > whoami
 Name        : Ayush Bisen

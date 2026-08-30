@@ -9,11 +9,7 @@
 </p>
 
 ```bash
-> whoami
-Name        : Ayush Bisen
-Role        : Full Stack Developer
-Education   : Computer Science & Business Systems Student
-Location    : Nagpur, India
+> Tech Stack
 Languages   : JavaScript | TypeScript | Python | C++ | SQL
 Frontend    : React | JavaScript | HTML | CSS | Tailwind CSS
 Backend     : Node.js | Express.js

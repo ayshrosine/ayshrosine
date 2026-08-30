@@ -9,7 +9,11 @@
 </p>
 
 ```bash
-> Tech Stack
+> whoami
+Name        : Ayush Bisen
+Role        : Full Stack Developer
+Education   : Computer Science & Business Systems Student
+Location    : Nagpur, India
 Languages   : JavaScript | TypeScript | Python | C++ | SQL
 Frontend    : React | JavaScript | HTML | CSS | Tailwind CSS
 Backend     : Node.js | Express.js

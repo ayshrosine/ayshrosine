@@ -33,24 +33,6 @@ Status      : Building scalable web applications & AI-powered projects 🚀
 🥈 HackronyX          | Top 10
 ```
 
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-
-
-<img src="https://streak-stats.demolab.com?user=ayshrosine&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-height="180" />
-
-<img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false"
-height="180" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <table>
@@ -282,16 +264,6 @@ https://github.com/ayshrosine/DriveX_classify-doc
 ## 📈 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/ayshrosine/ayshrosine/snake-output/snake.svg" />
-
----
-
-## 🌱 Current Focus
-
-- MERN Stack Mastery
-- DevOps (Docker, CI/CD)
-- System Design Basics
-- AI API Integration (OpenRouter, GPT APIs)
-- Open Source Contributions
 
 ---
 

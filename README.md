@@ -9,11 +9,7 @@
 </p>
 
 ```bash
-> whoami
-Name        : Ayush Bisen
-Role        : Full Stack Developer
-Education   : Computer Science & Business Systems Student
-Location    : Nagpur, India
+> Tech Stack
 Languages   : JavaScript | TypeScript | Python | C++ | SQL
 Frontend    : React | JavaScript | HTML | CSS | Tailwind CSS
 Backend     : Node.js | Express.js
@@ -32,62 +28,6 @@ Status      : Building scalable web applications & AI-powered projects 🚀
 🥈 Idea3              | Top 10
 🥈 HackronyX          | Top 10
 ```
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI / APIs
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🚀 Featured Projects
@@ -270,6 +210,10 @@ https://github.com/ayshrosine/DriveX_classify-doc
 ## 📬 Connect With Me
 
 <div align="center">
+  
+<a href="https://ayshrosine.tech" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-ayshrosine.tech-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/ayushbisen01" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Bisen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

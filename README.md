@@ -17,7 +17,7 @@
     <img src="./assets/card/tech-stack-card-dark.svg" alt="Ayush Bisen — Tech Stack & Achievements" width="100%">
   </picture>
 </p>
----
+
 
 ## 🚀 Featured Projects
 

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="610" viewBox="0 0 860 610" role="img" aria-labelledby="title description">
+<title id="title">Ayush Bisen - Tech Stack &amp; Achievements</title>
+<desc id="description">A terminal-style card listing Ayush's tech stack and hackathon achievements.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#161B22"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B949E"/><stop offset="0.48" stop-color="#58A6FF"/><stop offset="1" stop-color="#8B949E"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58A6FF" stop-opacity="0"/><stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.46"/><stop offset="1" stop-color="#8B949E" stop-opacity="0"/></linearGradient>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#58A6FF" opacity="0.05"/></pattern>
+  <style>
+    .mono { font-family: 'Courier New', Consolas, monospace; }
+    .terminal-label { font-family: 'Courier New', Consolas, monospace; font-size: 12px; letter-spacing: 0.5px; fill: #8B949E; }
+    .live-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; letter-spacing: 1px; fill: #58A6FF; }
+    .panel-title { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 2px; fill: #8B949E; opacity: 0.8; }
+    .system-section, .system-footer, .system-row { font-family: 'Courier New', Consolas, monospace; }
+    .system-section, .system-key { font-weight: 700; }
+    text, tspan { white-space: pre; }
+    @keyframes scan-sweep { from { transform: translateY(0); } to { transform: translateY(750px); } }
+    @media (prefers-reduced-motion: no-preference) { .motion-scan { animation: scan-sweep 8s linear infinite; } }
+    @media (prefers-reduced-motion: reduce) { .motion-scan { display: none; } }
+  </style>
+</defs>
+<rect width="860" height="610" rx="18" fill="url(#background)"/>
+<rect width="860" height="610" rx="18" fill="url(#scanlines)"/>
+<rect x="3" y="3" width="854" height="34" rx="14" fill="#161B22" fill-opacity="0.84"/>
+<circle cx="24" cy="20" r="5" fill="#58A6FF" opacity="0.88"/>
+<circle cx="42" cy="20" r="5" fill="#8B949E" opacity="0.7"/>
+<circle cx="60" cy="20" r="5" fill="#8B949E" opacity="0.78"/>
+<text x="430" y="25" text-anchor="middle" class="terminal-label">ayush@build ~ % ./stack</text>
+<rect x="14" y="48" width="832" height="500" rx="14" fill="#161B22" fill-opacity="0.42" stroke="url(#border)" stroke-opacity="0.42"/>
+<text x="34" y="62" class="panel-title">TECH STACK / ACHIEVEMENTS</text>
+<text x="34" y="82" class="system-section" fill="#8B949E" font-size="14">- TECH.STACK -----------------------------------</text>
+<text x="34" y="103.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Languages</tspan><tspan fill="#8B949E">: ..... </tspan><tspan fill="#F0F6FC">JavaScript | TypeScript | Python | C++ | SQL</tspan></text>
+<text x="34" y="125" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Frontend</tspan><tspan fill="#8B949E">: ...... </tspan><tspan fill="#F0F6FC">React | JavaScript | HTML | CSS | Tailwind CSS</tspan></text>
+<text x="34" y="146.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Backend</tspan><tspan fill="#8B949E">: ....... </tspan><tspan fill="#F0F6FC">Node.js | Express.js</tspan></text>
+<text x="34" y="168" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Database</tspan><tspan fill="#8B949E">: ...... </tspan><tspan fill="#F0F6FC">MongoDB | PostgreSQL | MySQL</tspan></text>
+<text x="34" y="189.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Focus</tspan><tspan fill="#8B949E">: ......... </tspan><tspan fill="#F0F6FC">Full Stack Development | System Design</tspan></text>
+<text x="34" y="211" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Learning</tspan><tspan fill="#8B949E">: ...... </tspan><tspan fill="#F0F6FC">MERN Stack | DevOps | AI APIs</tspan></text>
+<text x="34" y="232.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Interests</tspan><tspan fill="#8B949E">: ..... </tspan><tspan fill="#F0F6FC">Web Development | DevOps | Open Source | AI Integration</tspan></text>
+<text x="34" y="254" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Status</tspan><tspan fill="#8B949E">: ........ </tspan><tspan fill="#F0F6FC">Building scalable web applications &amp; AI-powered projects 🚀</tspan></text>
+<text x="34" y="297" class="system-section" fill="#8B949E" font-size="14">- ACHIEVEMENTS -----------------------------------</text>
+<text x="34" y="318.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">HackGenX</tspan><tspan fill="#8B949E">: ...... </tspan><tspan fill="#F0F6FC">🏆 3rd Position — 2025</tspan></text>
+<text x="34" y="340" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">SIH Expo</tspan><tspan fill="#8B949E">: ...... </tspan><tspan fill="#F0F6FC">🏆 1st Position — 2025</tspan></text>
+<text x="34" y="361.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">BIT-Tadoba</tspan><tspan fill="#8B949E">: .... </tspan><tspan fill="#F0F6FC">🏆 1st Position — 2026</tspan></text>
+<text x="34" y="383" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">TECHELONS</tspan><tspan fill="#8B949E">: ..... </tspan><tspan fill="#F0F6FC">🏆 1st Position — 2026</tspan></text>
+<text x="34" y="404.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">CIH</tspan><tspan fill="#8B949E">: ........... </tspan><tspan fill="#F0F6FC">🥈 Top 15</tspan></text>
+<text x="34" y="426" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">Idea3</tspan><tspan fill="#8B949E">: ......... </tspan><tspan fill="#F0F6FC">🥈 Top 10</tspan></text>
+<text x="34" y="447.5" class="system-row" font-size="14"><tspan fill="#8B949E">. </tspan><tspan class="system-key" fill="#58A6FF">HackronyX</tspan><tspan fill="#8B949E">: ..... </tspan><tspan fill="#F0F6FC">🥈 Top 10</tspan></text>
+<text x="34" y="490.5" class="system-footer" fill="#C9D1D9" font-size="14">TECH STACK &amp; HACKATHON WINS</text>
+<text x="430" y="585" text-anchor="middle" class="mono" font-size="10" letter-spacing="1.5" fill="#8B949E">FULL-STACK DEVELOPMENT / AI INTEGRATION / HACKATHON WINNER</text>
+<rect class="motion-scan" x="0" y="-70" width="860" height="70" fill="url(#scan)" opacity="0.42" style="mix-blend-mode:screen"/>
+<rect x="3" y="3" width="854" height="604" rx="16" fill="none" stroke="url(#border)" stroke-width="2" opacity="0.76"/>
+</svg>

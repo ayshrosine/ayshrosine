@@ -8,26 +8,15 @@
   </picture>
 </p>
 
-```bash
-> Tech Stack
-Languages   : JavaScript | TypeScript | Python | C++ | SQL
-Frontend    : React | JavaScript | HTML | CSS | Tailwind CSS
-Backend     : Node.js | Express.js
-Database    : MongoDB | PostgreSQL | MySQL
-Focus       : Full Stack Development | System Design
-Learning    : MERN Stack | DevOps | AI APIs
-Interests   : Web Development | DevOps | Open Source | AI Integration
-Status      : Building scalable web applications & AI-powered projects 🚀
-
-> achievements --hackathons
-🏆 HackGenX          | 3rd Position   | 2025
-🏆 SIH Expo           | 1st Position   | 2025
-🏆 BIT-Tadoba         | 1st Position   | 2026
-🏆 TECHELONS          | 1st Position   | 2026
-🥈 CIH                | Top 15
-🥈 Idea3              | Top 10
-🥈 HackronyX          | Top 10
-```
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/card/tech-stack-card-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/card/tech-stack-card-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card/tech-stack-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/card/tech-stack-card-light.svg">
+    <img src="./assets/card/tech-stack-card-dark.svg" alt="Ayush Bisen — Tech Stack & Achievements" width="100%">
+  </picture>
+</p>
 ---
 
 ## 🚀 Featured Projects
